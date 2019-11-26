@@ -8,8 +8,25 @@
 ### Simulation
 <p align="center">
   <img src="./images/simulation.svg" width="512" height="512">
-  <img src="./images/simulation.gif">
+  <img src="./images/simulation.gif" width="512">
 </p>
+
+### Main routine
+```c
+#define F_CPU 16000000
+#include <avr/io.h>
+#include <util/delay.h>
+
+int main(void)
+{
+	DDRD |= (1<<0);
+	while (1) 
+	{
+		PORTD ^= (1<<0);
+		_delay_ms(500);
+	}
+}
+```
 
 ### Circuit schematic
 <p align="center">
