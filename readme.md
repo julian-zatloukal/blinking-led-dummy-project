@@ -7,8 +7,8 @@
 
 ### Simulation
 <p align="center">
-  <img src="./images/simulation.svg" width="512" height="512">
-  <img src="./images/simulation.gif" width="512">
+  <img src="./images/simulation.svg" width="512" style="padding-top: 15px; padding-bottom: 15px;">
+  <img src="./images/simulation.gif" width="512" style="padding-bottom: 15px;">
 </p>
 
 ### Main routine
