@@ -6,10 +6,16 @@
 * Simulated in Proteus VSM.
 
 ### Circuit schematic
-![Alt text](./images/schematic.svg)
+<p align="center">
+  <img src="./images/schematic.svg" width="512" height="512">
+</p>
 
 ### PCB Top view
-![Alt text](./images/top.svg)
+<p align="center">
+  <img src="./images/top.svg" width="512" height="512">
+</p>
 
 ### PCB Bottom view
-![Alt text](./images/bottom.svg)
+<p align="center">
+  <img src="./images/bottom.svg" width="512" height="512">
+</p>
