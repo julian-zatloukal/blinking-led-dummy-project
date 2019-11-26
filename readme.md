@@ -5,6 +5,12 @@
 * Printed Circuit Board designed in Eagle (EDA).
 * Simulated in Proteus VSM.
 
+### Simulation
+<p align="center">
+  <img src="./images/simulation.svg" width="512" height="512">
+  <img src="./images/simulation.gif">
+</p>
+
 ### Circuit schematic
 <p align="center">
   <img src="./images/schematic.svg" width="512" height="512">
