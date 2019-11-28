@@ -1,4 +1,6 @@
 # Dummy project about a blinking LED. 
+### Description
+A simple microcontroller-based board that blinks an LED every 500mS.
 * Toggles every 500mS.
 * Based on the ATmega328P microcontroller. 
 * Coded in C, compiled in avr-gcc, and written using the Atmel Studio IDE.
